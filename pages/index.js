@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="歡迎來到我的網頁!" />
+        <Header title="這是我的個人首頁!" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
